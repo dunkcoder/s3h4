@@ -1,4 +1,4 @@
 s3h4
 ===========
 
-spring3 mvc and hibernate4, annotation configed webapp
+spring3 mvc and hibernate4, annotation configured webapp
